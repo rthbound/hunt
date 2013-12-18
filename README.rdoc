@@ -1,5 +1,7 @@
 == Same as jnunemaker's hunt gem, but excludes mongo mapper as a dependency
 
+This was done to allow the use of hunt on MongoMapper's rails 4 branch.
+
 = Hunt
 
 Insanely stupid and basic indexed search for MongoMapper. Probably pointless, but something I am playing around with on side projects.
